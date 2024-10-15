@@ -1,0 +1,14 @@
+/* =============== MEDIA QUERIES ============= */
+/* @media screen and (max-width: 1240px) {
+    .container {            
+        width: 96%;
+    }
+}
+@media screen and (max-width: 960px) {
+    header nav {
+        display: none;
+    } 
+    .mobile-btn {        
+        display: block;
+    }
+} */
